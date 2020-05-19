@@ -36,5 +36,8 @@
             }
         ]
       }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
